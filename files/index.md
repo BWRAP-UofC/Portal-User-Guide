@@ -124,6 +124,8 @@ There are three types of exportations:
 - Export as a CSV file
 - Export as PDF
 
+ZIP archive is recommended for exporting and importing.
+
 ## References
 
 1. Spatial Data on the Web Best Practices
