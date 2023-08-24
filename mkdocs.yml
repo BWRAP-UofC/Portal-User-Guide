@@ -1,0 +1,12 @@
+site_name: Portal User Guide
+theme:
+  name: material
+
+docs_dir: files
+watch:
+  - files
+
+# page tree
+nav: 
+  - User Guide: user.md
+  - Data Standardization: data_standardization.md
