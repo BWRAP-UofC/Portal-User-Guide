@@ -8,5 +8,5 @@ watch:
 
 # page tree
 nav: 
-  - User Guide: user.md
+  - User Guide: index.md
   - Data Standardization: data_standardization.md
