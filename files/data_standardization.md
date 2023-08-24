@@ -98,9 +98,7 @@ Recommended data formats to prepare data:
     GeoTIFF is a file format for storing georeferenced raster images. It is a variant of the TIFF (Tagged Image File Format) file format. In addition to geographic metadata, a GeoTIFF file can also store other types of metadata, such as color maps, image statistics, and compression settings. This makes it a versatile and powerful format for storing and analyzing raster data.
 
 - **NetCDF/HDF/GRIB**
-    NetCDF4/ HDF5 /GRIB are for large and multi-dimensional datasets.
-
-    NetCDF (network Common Data Form) is a data format for storing multidimensional data. This data can be temperature, humidity, pressure, wind speed and direction in both vector and raster format.
+    NetCDF4/ HDF5 /GRIB are for large and multi-dimensional datasets. NetCDF (network Common Data Form) is a data format for storing multidimensional data. This data can be temperature, humidity, pressure, wind speed and direction in both vector and raster format.
 
     GRIB (General Regularly-distributed Information in Binary) is a data format that stores meteorological data and forecast weather data. The GRIB raster type allows two formats GRIB 1 and GRIB 2. This also stores a large number of rasters with different dimensions in mosaic images.
 
