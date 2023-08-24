@@ -1,7 +1,5 @@
 # Portal User Guide
 
-August 21, 2023
-
 ## Quick Start
 
 ### Start the Portal
