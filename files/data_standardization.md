@@ -295,25 +295,6 @@ Checklist for Drone Images
 
 Checklist for Drone Images
 
-### References
-
-1. Spatial Data on the Web Best Practices
-
-    <https://www.w3.org/TR/sdw-bp/>
-
-2. California Open Data Publisher's Handbook
-
-   <https://docs.data.ca.gov/california-open-data-publishers-handbook/>
-
-1. EPA GeoPlatform Data Publishing Workflow Standard Operating Procedure
-    <https://19january2017snapshot.epa.gov/sites/production/files/2015-11/documents/epa_datapublishing_workflow_sop_v1.2_20150930_dig_strategy.pdf>
-
-2. Prepare data to publish a feature service
-    <https://enterprise.arcgis.com/en/server/latest/publish-services/linux/prepare-data-for-feature-services.htm>
-
-3. Guidance on submitting geospatial data
-    <https://www.canada.ca/en/impact-assessment-agency/services/policy-guidance/practitioners-guide-impact-assessment-act/guidance-submitting-geospatial-data.html>
-
 ## Data Management Plan
 
 ### Introduction
