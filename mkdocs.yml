@@ -10,3 +10,7 @@ watch:
 nav: 
   - User Guide: index.md
   - Data Standardization: data_standardization.md
+
+plugins:
+  - git-revision-date-localized:
+      type: date
