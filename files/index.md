@@ -12,13 +12,13 @@ Go to the website:
 
 ![image](media/image1.png)
 
-### Sign in the Catalog
+### Sign into the Catalog
 
 Click the sign in button located in the top right corner.
 
 ![image](media/image2.png)
 
-### Searching the Records
+### Searching Records
 
 Click the search button in the top left corner, the searching page will show up.
 
@@ -32,7 +32,7 @@ Click the search button in the top left corner, the searching page will show up.
 
 This is the most used functionalities for geospatial portal. For more detailed instructions please refer to [GeoNetwork User Guide](https://geonetwork-opensource.org/manuals/trunk/en/user-guide/index.html)
 
-### Creating a new record
+### Creating new record
 
 ![image6](media/image6.png)
 
@@ -124,4 +124,21 @@ There are three types of exportations:
 - Export as a CSV file
 - Export as PDF
 
+## References
 
+1. Spatial Data on the Web Best Practices
+
+    <https://www.w3.org/TR/sdw-bp/>
+
+2. California Open Data Publisher's Handbook
+
+   <https://docs.data.ca.gov/california-open-data-publishers-handbook/>
+
+3. EPA GeoPlatform Data Publishing Workflow Standard Operating Procedure
+    <https://19january2017snapshot.epa.gov/sites/production/files/2015-11/documents/epa_datapublishing_workflow_sop_v1.2_20150930_dig_strategy.pdf>
+
+4. Prepare data to publish a feature service
+    <https://enterprise.arcgis.com/en/server/latest/publish-services/linux/prepare-data-for-feature-services.htm>
+
+5. Guidance on submitting geospatial data
+    <https://www.canada.ca/en/impact-assessment-agency/services/policy-guidance/practitioners-guide-impact-assessment-act/guidance-submitting-geospatial-data.html>
