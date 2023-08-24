@@ -98,7 +98,7 @@ Recommended data formats to prepare data:
     GeoTIFF is a file format for storing georeferenced raster images. It is a variant of the TIFF (Tagged Image File Format) file format. In addition to geographic metadata, a GeoTIFF file can also store other types of metadata, such as color maps, image statistics, and compression settings. This makes it a versatile and powerful format for storing and analyzing raster data.
 
 - **NetCDF/HDF/GRIB**
-    NetCDF4/ HDF5 /GRIB are for large and multi-dimensional datasets. NetCDF (network Common Data Form) is a data format for storing multidimensional data. This data can be temperature, humidity, pressure, wind speed and direction in both vector and raster format.
+    NetCDF4/ HDF5 /GRIB are for large and multi-dimensional datasets. NetCDF (Network Common Data Form) is a data format for storing multidimensional data. This data can be temperature, humidity, pressure, wind speed and direction in both vector and raster format.
 
     GRIB (General Regularly-distributed Information in Binary) is a data format that stores meteorological data and forecast weather data. The GRIB raster type allows two formats GRIB 1 and GRIB 2. This also stores a large number of rasters with different dimensions in mosaic images.
 
@@ -110,17 +110,11 @@ Recommended data formats to prepare data:
 
 ### projection
 
-GeoServer support broad selection of GCS, but EPSG 4326 is better supported by applications.
+GeoServer supports broad selection of GCS, but EPSG 4326 is better supported by applications.
 
 For layers saved in PostGIS and are supposed to be edited later through web applications, EPSG 4326 is strongly recommended.
 
 - **No-geospatial Data**
-
-## Data Publishing Guideline
-
-### Data Uploading
-
-#### Uploading bodies
 
 Editors can upload all kinds of files as metadata attachments.
 
@@ -128,9 +122,9 @@ Administrators are responsible for publishing geospatial data to GeoServer.
 
 #### Authorizing bodies
 
-#### Metadata
+### Metadata
 
-##### Best Practices for Metadata Creation
+#### Best Practices for Metadata Creation
 
 - Gather all information together, especially if multiple people have information that you need.
 
@@ -180,6 +174,8 @@ Administrators are responsible for publishing geospatial data to GeoServer.
     **BWRAP_Study_Area.shp**
 
 #### Clean and Validate the Data
+
+### Data Uploading
 
 #### Publish Data to GeoServer
 
