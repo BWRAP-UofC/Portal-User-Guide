@@ -1,4 +1,4 @@
-site_name: Geospatial Portal User Guide
+site_name: Support Documents
 theme:
   name: material
 
@@ -9,7 +9,7 @@ watch:
 # page tree
 nav: 
   - User Guide: index.md
-  - Data Standardization: data_standardization.md
+  - Data Guide: data_standardization.md
 
 plugins:
   - git-revision-date-localized:
