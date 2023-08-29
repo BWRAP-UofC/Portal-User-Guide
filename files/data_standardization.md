@@ -1,6 +1,6 @@
 # Data Standardization
 
-## Data authenticity
+## Data Authenticity
 
 ### Quality
 
